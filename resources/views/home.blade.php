@@ -6,9 +6,4 @@
     <x-newsletter />
 
 
-
-
-
-
-
 </x-layout>

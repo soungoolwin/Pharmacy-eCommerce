@@ -1,3 +1,8 @@
+{{-- line through --}}
+<div class="pb-10 flex items-center">
+    <span class="w-full border-t border-dotted border-blue-dark"></span>
+</div>
+{{-- line through --}}
 <footer class="relative bg-white py-10">
     <div class=" w-[80%] mx-auto px-4 relative z-10">
         <div class="grid lg:grid-cols-4 grid-cols-2 gap-4">
@@ -29,8 +34,6 @@
             </div>
         </div>
     </div>
-    <div class="flex justi">
 
-    </div>
-    <div class="absolute inset-x-0 bottom-0 h-20 bg-gradient-to-b from-white to-green-200"></div>
+    <div class="absolute inset-x-0 bottom-0 h-[200px] bg-gradient-to-b from-white to-green-200"></div>
 </footer>
