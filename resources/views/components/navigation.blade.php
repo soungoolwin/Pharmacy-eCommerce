@@ -140,7 +140,6 @@
             <button type="button"
                 class="inline-flex justify-center w-full  px-4 py-2 text-sm font-medium text-gray-700 active:bg-gray-200 active:text-gray-800"
                 id="dropdown-button" aria-haspopup="true" aria-expanded="true">
-                <!-- Heroicon name: chevron-down -->
                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
                     stroke="currentColor" class="-ml-1 mr-2 h-5 w-5">
                     <path stroke-linecap="round" stroke-linejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5" />
@@ -153,7 +152,6 @@
                 role="menu" aria-orientation="vertical" aria-labelledby="dropdown-button" tabindex="-1"
                 id="dropdown-menu">
                 <div class="py-1" role="none">
-                    <!-- Dropdown items -->
                     <a href="#"
                         class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 hover:text-gray-900"
                         role="menuitem" tabindex="-1" id="dropdown-item-1">Item 1</a>
@@ -172,7 +170,7 @@
 
 
 
-<div class="lg:flex hidden justify-center mt-2">
+<div class="lg:flex hidden justify-center pt-2 bg-[#F3F7FB]">
     <a href="" class="mr-7">
         <p class="jost-300">Covid Essentials</p>
     </a>
