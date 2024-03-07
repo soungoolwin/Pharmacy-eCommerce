@@ -14,8 +14,9 @@
 </head>
 
 <body>
-    <x-navigation />
-    {{ $slot }}
+    <x-navigation>
+        {{ $slot }}
+    </x-navigation>
 </body>
 
 </html>
