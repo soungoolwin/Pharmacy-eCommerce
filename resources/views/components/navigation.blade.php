@@ -1,4 +1,4 @@
-<nav class="bg-[#77BFA3] h-[85px] flex items-center sticky top-0">
+<nav class="bg-[#77BFA3] h-[85px] flex items-center sticky top-0 z-20">
     <div class="grid lg:grid-cols-10 grid-cols-12 lg:w-[85%] w-full mx-auto text-white">
 
         <div class="lg:col-span-2 col-span-6 jost-300 my-auto mx-auto flex">
