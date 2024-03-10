@@ -17,7 +17,7 @@
                     </div>
                 </div>
             </div>
-            <div class="p-6 col-span-3 lg:flex hidden">
+            <div class="p-6 lg:col-span-3 col-span-12">
                 <div class="w-full mx-auto bg-white rounded-lg h-[450px] shadow-lg">
                     <div class="px-6 py-8">
                         <h2 class="text-2xl font-bold mb-6">Checkout</h2>
