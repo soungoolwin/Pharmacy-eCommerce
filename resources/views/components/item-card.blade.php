@@ -1,6 +1,9 @@
 <div class="w-[230px] rounded overflow-hidden shadow-lg">
-    <img src="{{ Vite::image('medicinecard.jpg') }}" alt="medicine card"
-        class="object-scale-down h-[200px] w-[200px] mx-auto">
+    <a href="/item">
+        <img src="{{ Vite::image('medicinecard.jpg') }}" alt="medicine card"
+            class="object-scale-down h-[200px] w-[200px] mx-auto">
+    </a>
+
     <div class="px-6 py-4">
         <div class="font-bold text-xl mb-2">Item Name</div>
         <p class="text-gray-700 text-base">

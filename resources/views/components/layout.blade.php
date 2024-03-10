@@ -13,7 +13,7 @@
         rel="stylesheet">
 </head>
 
-<body>
+<body class="bg-[#F7FAFA]">
     <x-navigation />
     {{ $slot }}
     <x-footer />
