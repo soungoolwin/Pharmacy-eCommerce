@@ -96,5 +96,6 @@
 
             </ul>
         </div>
+        <x-trendingtoday />
     </div>
 </x-layout>
